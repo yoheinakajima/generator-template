@@ -3,5 +3,5 @@ Generative code template for combining transparent png attributes into 10,000 un
 
 Used for the PixelBeasts 10k NFT project.
 
-Join our Discord here: https://discord.gg/amnvk4CZ3J
+Join our Discord here: https://discord.gg/amnvk4CZ3J<br/>
 Purchase on OpenSea: https://opensea.io/collection/beastopia-pixelbeasts
